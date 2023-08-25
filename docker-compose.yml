@@ -1,9 +1,9 @@
 version: '3'
 services:
  db:
-  image: dockerpinata/sqlite:latest
+  image: dockerpinata/sqlite:2.0
   volumes:
-   - .:/dockerpinata/sqlite
+   - .:/dockerpinata/sqlite:2.0
   networks:
    - app-network
 
