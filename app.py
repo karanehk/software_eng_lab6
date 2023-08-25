@@ -3,7 +3,7 @@ import sqlite3
 
 app = Flask(__name__)
 
-# API endpoints
+
 @app.route('/books', methods=['GET'])
 def get_books():
     conn = sqlite3.connect('books.db')
