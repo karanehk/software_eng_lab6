@@ -10,7 +10,7 @@
 مطابق شکل زیر سه کامپوننت داریم که نشان می‌دهد request کاربر به nginx رسیده و پس از انجام تعادل بار، پاسخ دستور صحیح را به پایگاه داده ارسال می‌کند:
 
 
-<img title="" src="images/UML.png" alt="alt text" data-align="center" width="578">
+<img title="" src="images/uml.png" alt="alt text" data-align="center" width="578">
 
 ## اجزای پروژه
 
